@@ -30,7 +30,7 @@ class InsertionSort {
             
         }
         
-        System.out.println("The entered numbers are"+Arrays.toString(A));
+        System.out.println("The  numbers are"+Arrays.toString(A));
         
         
         InsertionSort ob = new InsertionSort();
